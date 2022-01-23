@@ -14,4 +14,4 @@ jobs:
       - run: echo "Hello Ayodele the coder"
       - run: docker version
       - run: docker run hello-world
-      - run: python -v
+      - run: python -V
