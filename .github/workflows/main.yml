@@ -15,3 +15,4 @@ jobs:
       - run: docker version
       - run: docker run hello-world
       - run: python -V
+      - run: docker pull node
